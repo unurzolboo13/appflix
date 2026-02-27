@@ -1,0 +1,5 @@
+{
+  "name": "flix",
+  "description": "A high-performance Netflix-style hybrid mobile app for App Store and Google Play, built with React and Capacitor.",
+  "requestFramePermissions": []
+}
